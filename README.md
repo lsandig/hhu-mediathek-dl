@@ -55,4 +55,5 @@ Author
 ------
 
 Copyright (c) 2014 Ludger Sandig
-[Blog](http://www-public.rz.uni-duesseldorf.de/~lusan100)
+
+[Blog](http://lsandig.org/blog)
