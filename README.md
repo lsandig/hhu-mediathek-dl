@@ -11,7 +11,7 @@ Universität Düsseldorf.
 This is useful if you
 
 - want to watch it later without internet connection
-- are on a system with no *adobe flash player* available
+- are on a system without a browser that works with their proprietary video player (for example [luakit](https://mason-larobina.github.io/luakit/)).
 
 Dependencies
 ------------
@@ -44,7 +44,7 @@ For more options run:
 License
 -------
 
-GNU GPL v3, see LICENSE in the same directory as this README
+GNU GPL v3, see LICENSE in the same directory as this README.
 
 Homepage
 --------
